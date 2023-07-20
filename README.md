@@ -7,7 +7,7 @@
 - 💬 Ask me about Cybersecurity {The Offensive Side Though 😄}
 - 📫 How to reach me: cybertolu@protonmail.com
 - 😄 Pronouns: He/Him/His/The Cross/
-- ⚡ Fun fact: Well you woul have to find out
+- ⚡ Fun fact: Can't Wait For You To Find Out
 
 
 ### :hammer_and_wrench: Languages and Tools :
