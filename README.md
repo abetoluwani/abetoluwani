@@ -1,31 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I’m Abe Toluwani
 
-<!--
-**abetoluwani/abetoluwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Cybersecurity and App Development
+- 👯 I’m looking to collaborate on App Development
+- 🤔 I’m looking for help with Cybersecurity
+- 💬 Ask me about Cybersecurity {The Offensive Side Though 😄}
+- 📫 How to reach me: cybertolu@protonmail.com
+- 😄 Pronouns: He/Him/His/The Cross/
+- ⚡ Fun fact: Well you woul have to find out
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Precious Orjiude
-	
-9:32 PM (0 minutes ago)
-	
-to me
-- 👋 Hi, I’m Precious Orjiude
-- 👀 I’m interested in Programming and Electronics
-- 🌱 I’m currently learning Web Development and Robotics
-- 📫 How to reach me preciousorjiude@gmail.com
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
