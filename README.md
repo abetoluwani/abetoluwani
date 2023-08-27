@@ -41,9 +41,7 @@ _In summary, Toluwani is a multifaceted professional, adept in software developm
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abetoluwani)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abetoluwani&show_icons=true&theme=radical)
----
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
