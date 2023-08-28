@@ -11,15 +11,14 @@
 
 
   
-_Meet Toluwani, a passionate software engineer 
+_Meet Toluwani, a passionate software engineer_
+_Toluwani has always been fascinated by the power of technology to solve complex problems and make people's lives easier._
 
-Toluwani has always been fascinated by the power of technology to solve complex problems and make people's lives easier.
+_With a strong aptitude for coding and a natural curiosity for cybersecurity, Toluwani is eager to apply his skills and knowledge to real-world challenges. He is passionate about exploring new technologies and experimenting with different programming languages and tools to find the most effective solutions._
 
-With a strong aptitude for coding and a natural curiosity for cybersecurity, Toluwani is eager to apply his skills and knowledge to real-world challenges. He is passionate about exploring new technologies and experimenting with different programming languages and tools to find the most effective solutions.
+ _Toluwani is excited to learn from experienced professionals and to collaborate with like-minded individuals who share their passion for software and cybersecurity. He is also committed to staying up-to-date with the latest trends and best practices in the industry to continuously improve his skills and stay ahead of the curve._
 
- Toluwani is excited to learn from experienced professionals and to collaborate with like-minded individuals who share their passion for software and cybersecurity. He is also committed to staying up-to-date with the latest trends and best practices in the industry to continuously improve his skills and stay ahead of the curve.
-
-Despite being accustomed to the field, Toluwani is a driven and dedicated individual with a strong work ethic and a hunger to learn. They are eager to take on new challenges and make a meaningful contribution to the world of technology._
+_Despite being accustomed to the field, Toluwani is a driven and dedicated individual with a strong work ethic and a hunger to learn. They are eager to take on new challenges and make a meaningful contribution to the world of technology._
 
 
 
