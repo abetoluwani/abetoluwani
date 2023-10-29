@@ -1,35 +1,19 @@
-### Hi there 👋, I’m Abe Toluwani
+### Hi there 👋, 
+
+**I’m Abe Toluwani ~ A Software Developer And Hacker**
 
 
-- 🌱 I’m currently learning Offensive Security, Back-End Development and App Development
-- 👯 I’m looking to collaborate on App Development
-- 🤔 I’m looking for help with Offensive Security
-- 💬 Ask me about Cybersecurity {The Offensive Side Though 😄}
+As a developer i thrive in the world of software technologies, where I turn lines of code into powerful, user-friendly applications. My expertise spans a wide range of programming languages and technologies, allowing me to craft solutions that solve complex problems and delight users.
+
+And also a Hacker in the digital age, cybersecurity is paramount, i widely use my hacking skills to identify vulnerabilities and protect businesses and individuals from cyber threats. 
+
+💡 My Vision:
+I believe in the power of technology to shape a brighter future. My journey as a software developer and hacker is fueled by a vision of a world where innovation knows no bounds, businesses thrive, and individuals stay safe in the digital realm.
+
 - 📫 How to reach me: cybertolu@protonmail.com
 - 😄 Pronouns: He/Him/His/The Cross/The Bible
 - ⚡ Fun fact: Can't Wait For You To Find Out
 
-
-  
-Hey there! I'm Abe Toluwani, a multifaceted tech enthusiast with a passion for pushing the boundaries of technology. I wear several hats in the digital realm, allowing me to explore the ever-evolving landscape of software development, entrepreneurship, and ethical hacking.
-
-👨‍💼 CEO Extraordinaire:
-As the CEO of my own tech startup, I'm on a mission to revolutionize the way we interact with technology. Leading a dynamic team, I steer the ship, ensuring that our innovative ideas come to life. My leadership is marked by a relentless pursuit of excellence and a keen eye for opportunities that drive our company forward.
-
-💾 Software Developer Extraordinaire:
-Coding is in my DNA. I thrive in the world of software development, where I turn lines of code into powerful, user-friendly applications. My expertise spans a wide range of programming languages and technologies, allowing me to craft solutions that solve complex problems and delight users.
-
-🔐 Ethical Hacker:
-In the digital age, cybersecurity is paramount. I'm not just a hacker; I'm an ethical one. With a white hat firmly on my head, I use my hacking skills to identify vulnerabilities and protect businesses and individuals from cyber threats. My commitment to ethical hacking ensures that the digital world remains a safer place for all.
-
-💡 My Vision:
-I believe in the power of technology to shape a brighter future. My journey as a software developer, CEO, and ethical hacker is fueled by a vision of a world where innovation knows no bounds, businesses thrive, and individuals stay safe in the digital realm.
-
-🚀 Let's Connect:
-Whether you're looking for cutting-edge software solutions, cybersecurity advice, or simply want to network with a visionary like me, don't hesitate to reach out. Let's collaborate and make the digital world a better place, one line of code at a time!
-
-#TechInnovator #CEO #SoftwareDevelopment #EthicalHacking #InnovationMatters #CybersecurityExpert
-#offensivesec #security #data #hacker #future #network #environment #university #software #privacy #tech
 
 
 
