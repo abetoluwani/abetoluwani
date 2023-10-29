@@ -44,6 +44,5 @@ _Despite being accustomed to the field, Toluwani is a driven and dedicated indiv
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
