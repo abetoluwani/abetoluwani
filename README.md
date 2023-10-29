@@ -1,9 +1,9 @@
 ### Hi there 👋, I’m Abe Toluwani
 
 
-- 🌱 I’m currently learning Cybersecurity and App Development
+- 🌱 I’m currently learning Offensive Security, Back-End Development and App Development
 - 👯 I’m looking to collaborate on App Development
-- 🤔 I’m looking for help with Cybersecurity
+- 🤔 I’m looking for help with Offensive Security
 - 💬 Ask me about Cybersecurity {The Offensive Side Though 😄}
 - 📫 How to reach me: cybertolu@protonmail.com
 - 😄 Pronouns: He/Him/His/The Cross/The Bible
@@ -34,7 +34,7 @@ _Despite being accustomed to the field, Toluwani is a driven and dedicated indiv
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt="Java" width="50" height="50"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Python" alt="Django" width="50" height="50"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="50" height="50"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp; -->
   
 </div>
