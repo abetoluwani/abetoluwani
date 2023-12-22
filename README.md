@@ -1,18 +1,28 @@
-### Hi there 👋, 
+# Hi there 👋
 
-**I’m Abe Toluwani ~ A Software Developer And Hacker**
+I'm Abe Toluwani, a tech enthusiast who thrives on the thrill of playing with computer stuff. I speak the language of computers fluently, including Python, Perl, PHP, Bash, C, C++, Dart, and Flutter. It's like magic, but with a keyboard.
+
+## Skills & Specialties
+
+- 🌐 Web Enthusiast: Expert in web application hacking, reconnaissance, scanning, and enumeration for a holistic understanding of target systems.
+- 💻 Server Wizard: Delving into the intricacies of server architectures, ensuring robust security measures for digital landscapes.
+- 🌐 Network Ninja: Testing networks and wireless systems for vulnerabilities, making the digital world a safer space.
+- 🚀 Scripting Sorcerer: Crafting special scripts to make computers perform tasks automatically.
 
 
-As a developer i thrive in the world of software technologies, where I turn lines of code into powerful, user-friendly applications. My expertise spans a wide range of programming languages and technologies, allowing me to craft solutions that solve complex problems and delight users.
 
-And also a Hacker in the digital age, cybersecurity is paramount, i widely use my hacking skills to identify vulnerabilities and protect businesses and individuals from cyber threats. 
+In this ever-evolving tech landscape, I'm on a journey of continuous learning, staying ahead with the latest technologies, and adapting to emerging challenges. Let's connect and explore opportunities to contribute to secure and innovative digital ecosystems! 🌐
 
-💡 My Vision:
-I believe in the power of technology to shape a brighter future. My journey as a software developer and hacker is fueled by a vision of a world where innovation knows no bounds, businesses thrive, and individuals stay safe in the digital realm.
 
-- 📫 How to reach me: cybertolu@protonmail.com
-- 😄 Pronouns: He/Him/His/The Cross/The Bible
-- ⚡ Fun fact: Can't Wait For You To Find Out
+🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abe%20Toluwani-blue)](https://www.linkedin.com/in/abetoluwani/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40cyberwizard-blue)](https://twitter.com/abetoluwanii/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40your_instagram_handle-orange)](https://www.instagram.com/abetoluwani/)
+[![Medium](https://img.shields.io/badge/Medium-AbeToluwani-%23000000)](https://medium.com/@abetoluwani)
+[![Email](https://img.shields.io/badge/Email-cybertolu%40protonmail.com-green)](mailto:cybertolu@protonmail.com)
+
+
 
 
 
@@ -20,7 +30,6 @@ I believe in the power of technology to shape a brighter future. My journey as a
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C Plus Plus" alt="C Plus Plus" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="50" height="50"/>&nbsp;
@@ -28,9 +37,6 @@ I believe in the power of technology to shape a brighter future. My journey as a
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="JAVA" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="50" height="50"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp; -->
   
 </div>
 <br>
