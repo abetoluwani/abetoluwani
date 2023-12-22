@@ -17,8 +17,8 @@ In this ever-evolving tech landscape, I'm on a journey of continuous learning, s
 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abe%20Toluwani-blue)](https://www.linkedin.com/in/abetoluwani/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40cyberwizard-blue)](https://twitter.com/abetoluwanii/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40your_instagram_handle-orange)](https://www.instagram.com/abetoluwani/)
+[![Twitter](https://img.shields.io/badge/Twitter-%40abetoluwanii-black)](https://twitter.com/abetoluwanii/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40abetoluwani-purple)](https://www.instagram.com/abetoluwani/)
 [![Medium](https://img.shields.io/badge/Medium-AbeToluwani-%23000000)](https://medium.com/@abetoluwani)
 [![Email](https://img.shields.io/badge/Email-cybertolu%40protonmail.com-green)](mailto:cybertolu@protonmail.com)
 
