@@ -1,10 +1,11 @@
 # Hi there 👋
 
-I'm Abe Toluwani, a tech enthusiast who thrives on the thrill of playing with computer stuff. I speak the language of computers fluently, including Python, Perl, PHP, Bash, C, C++, Dart, and Flutter. It's like magic, but with a keyboard.
+I'm Abe Toluwani, a tech enthusiast who thrives on the thrill of playing with computer stuff. I speak the language of computers fluently, including Python,Bash, C, C++, Dart, and Flutter. It's like magic, but with a keyboard.
 
 ## Skills & Specialties
 
-- 🌐 Web Enthusiast: Expert in web application hacking, reconnaissance, scanning, and enumeration for a holistic understanding of target systems.
+- 🌐 Web: Web application hacking, reconnaissance, scanning, and enumeration for a holistic understanding of target systems.
+- 🌐 App : App Development with Flutter and Dart
 - 🌐 Network Ninja: Testing networks and wireless systems for vulnerabilities, making the digital world a safer space.
 - 🚀 Scripting Sorcerer: Crafting special scripts to make computers perform tasks automatically.
 
