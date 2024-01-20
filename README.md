@@ -1,6 +1,5 @@
 # Hi there 👋
 
-# Hi there 👋
 
 I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer stuff. I speak the language of computers fluently, including Python,  Bash, C, C++, Dart, and Flutter. It's like magic, but with a keyboard.
 
