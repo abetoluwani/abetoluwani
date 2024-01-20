@@ -1,8 +1,9 @@
 # Hi there 👋
 
-I'm Abe Toluwani, a tech enthusiast who thrives on the thrill of playing with computer stuff. I speak the language of computers fluently, including Python,Bash, C, C++, Dart, and Flutter. It's like magic, but with a keyboard.
+# Hi there 👋
 
-## Skills & Specialties
+I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer stuff. I speak the language of computers fluently, including Python,  Bash, C, C++, Dart, and Flutter. It's like magic, but with a keyboard.
+
 
 - 🌐 Web: Web application hacking, reconnaissance, scanning, and enumeration for a holistic understanding of target systems.
 - 🌐 App : App Development with Flutter and Dart
@@ -10,14 +11,16 @@ I'm Abe Toluwani, a tech enthusiast who thrives on the thrill of playing with co
 - 🚀 Scripting Sorcerer: Crafting special scripts to make computers perform tasks automatically.
 
 
+- 📫 How to reach me: cybertolu@protonmail.com
+- 😄 Pronouns: He/Him/His/The Cross/The Bible
+- ⚡ Fun fact: Can't Wait For You To Find Out
 
-In this ever-evolving tech landscape, I'm on a journey of continuous learning, staying ahead with the latest technologies, and adapting to emerging challenges. Let's connect and explore opportunities to contribute to secure and innovative digital ecosystems! 🌐
 
+In an ever-evolving tech landscape, I am committed to continuous learning, staying abreast of the latest technologies, and adapting to emerging challenges. Let's connect and explore opportunities to contribute to secure and innovative digital ecosystems! 🌐
 
 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abe%20Toluwani-blue)](https://www.linkedin.com/in/abetoluwani/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40abetoluwanii-black)](https://twitter.com/abetoluwanii/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40abetoluwani-purple)](https://www.instagram.com/abetoluwani/)
 [![Medium](https://img.shields.io/badge/Medium-AbeToluwani-%23000000)](https://medium.com/@abetoluwani)
 [![Email](https://img.shields.io/badge/Email-cybertolu%40protonmail.com-green)](mailto:cybertolu@protonmail.com)
