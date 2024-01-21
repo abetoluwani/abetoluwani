@@ -44,6 +44,12 @@ In an ever-evolving tech landscape, I am committed to continuous learning, stayi
 <br>
 <br>
 
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=abetoluwani&theme=ayu-mirage&card_width=500)](https://git.io/streak-stats)
+  
+
+<br>
+<br>
 
 
 
