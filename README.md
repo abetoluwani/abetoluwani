@@ -61,7 +61,6 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 <br>
 
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=abetoluwani&theme=ayu-mirage&card_width=500)](https://git.io/streak-stats)
   
 
 <br>
