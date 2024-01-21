@@ -18,19 +18,11 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- <a href=" https://medium.com/@abetoluwani"> Personal website and blog </a> 
+- <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7142092104377200640"> LinkedIn NewsLetter </a> 
 
-### 📔 Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
-<!-- BLOG-POST-LIST:END -->
+<br>
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -50,16 +42,6 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abetoluwani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
 
 
 <br>
