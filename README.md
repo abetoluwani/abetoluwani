@@ -15,19 +15,22 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 - ⚡ Fun fact: Can't Wait For You To Find Out
 
 
-In an ever-evolving tech landscape, I am committed to continuous learning, staying abreast of the latest technologies, and adapting to emerging challenges. Let's connect and explore opportunities to contribute to secure and innovative digital ecosystems! 🌐
 
-🌐 Connect with me:
+## 📝 Blogs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abe%20Toluwani-blue)](https://www.linkedin.com/in/abetoluwani/)
-[![Instagram](https://img.shields.io/badge/Instagram-%40abetoluwani-purple)](https://www.instagram.com/abetoluwani/)
-[![Medium](https://img.shields.io/badge/Medium-AbeToluwani-%23000000)](https://medium.com/@abetoluwani)
-[![Email](https://img.shields.io/badge/Email-cybertolu%40protonmail.com-green)](mailto:cybertolu@protonmail.com)
+- Personal website and blog: https://zhenye-na.github.io/
+- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
+- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
+### 📔 Latest Blog posts
 
-
-
-
+<!-- BLOG-POST-LIST:START -->
+- [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
+- [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
+- [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
+- [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
+- [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
+<!-- BLOG-POST-LIST:END -->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -41,7 +44,38 @@ In an ever-evolving tech landscape, I am committed to continuous learning, stayi
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
   
 </div>
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abetoluwani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+
 <br>
+<br>
+<br>
+<br>
+
+🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abe%20Toluwani-blue)](https://www.linkedin.com/in/abetoluwani/)
+[![Instagram](https://img.shields.io/badge/Instagram-%40abetoluwani-purple)](https://www.instagram.com/abetoluwani/)
+[![Medium](https://img.shields.io/badge/Medium-AbeToluwani-%23000000)](https://medium.com/@abetoluwani)
+[![Email](https://img.shields.io/badge/Email-cybertolu%40protonmail.com-green)](mailto:cybertolu@protonmail.com)
+
+
+
 <br>
 
   
