@@ -18,7 +18,7 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 
 ## 📝 Blogs
 
-- <a href=" https://medium.com/@abetoluwani"> Personal website and blog </a> 
+- <a href="https://medium.com/@abetoluwani"> Personal website and blog </a> 
 - <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7142092104377200640"> LinkedIn NewsLetter </a> 
 
 <br>
