@@ -37,6 +37,8 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
   
 </div>
 
+<br>
+<br>
 
 ## 🏆 GitHub Trophies
 
@@ -44,8 +46,6 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 
 
 
-<br>
-<br>
 <br>
 <br>
 
