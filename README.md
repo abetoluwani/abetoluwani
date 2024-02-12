@@ -1,5 +1,4 @@
-# Hi there 👋
-
+# Hi there 👋 
 
 I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer stuff. I speak the language of computers fluently, including Python,  Bash, C, C++, Dart, and Flutter. It's like magic, but with a keyboard.
 
@@ -42,7 +41,7 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abetoluwani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uno36&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
