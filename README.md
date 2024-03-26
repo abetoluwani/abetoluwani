@@ -44,7 +44,7 @@ I'm Abe Toluwani, a techie who thrives on the thrill of playing with computer st
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abe%20Toluwani-blue)](https://www.linkedin.com/in/abetoluwani/)
 [![Instagram](https://img.shields.io/badge/Instagram-%40abetoluwani-purple)](https://www.instagram.com/abetoluwani/)
 [![Medium](https://img.shields.io/badge/Medium-AbeToluwani-%23000000)](https://medium.com/@abetoluwani)
-[![Email](https://img.shields.io/badge/Email-cybertolu%40protonmail.com-green)](mailto:cybertolu@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-cybertolu%40protonmail.com-green)](mailto:abetoluwani@gmail.com)
 
 
 
