@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@abetoluwani](https://medium.com/@abetoluwani)
 
-- 💬 Ask me about **CyberSecurity, App Development , Leadership**
+- 💬 Ask me about **Offensive Security and App Development**
 
 - 📫 How to reach me **cybertolu@protonmail.com**
 
