@@ -19,7 +19,7 @@
 <a href="https://fb.com/abetoluwanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abetoluwanii" height="30" width="40" /></a>
 <a href="https://instagram.com/abetoluwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abetoluwani" height="30" width="40" /></a>
 <a href="https://medium.com/@abetoluwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abetoluwani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/themalwearpodcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themalwearpodcast" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@themalwearpodcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themalwearpodcast" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abetoluwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abetoluwani" height="30" width="40" /></a>
 </p>
 
