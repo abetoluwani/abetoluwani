@@ -38,12 +38,13 @@
 
 ### Stats ![robot](https://github.com/Salwa99/Salwa99/assets/110976050/8df2d10d-80e0-4ace-995e-5e326f4c7437) :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abetoluwani&show_icons=true&locale=en&layout=compact" alt="abetoluwani" width="400" height="200" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abetoluwani&show_icons=true&locale=en" alt="abetoluwani" width="400" height="230" /></p>
+<div id="stats">
+  <img src="https://streak-stats.demolab.com?user=abetoluwani&theme=github_dark" height="200" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&layout=compact&theme=github_dark" align="left" height="200" alt="Top Languages"/>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abetoluwani" alt="abetoluwani" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abetoluwani&" alt="abetoluwani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abetoluwani&" alt="abetoluwani" height="350" /></p>
 
