@@ -1,7 +1,7 @@
 
 # Hello there! ![woman_raising_hand](https://github.com/Salwa99/Salwa99/assets/110976050/443b0d8b-26d7-4078-b5cd-e51f5c0f26ce)
 
->>I go by the name Abe Toluwani,a passionate app genius from the magnificent country of Nigeria 🇳🇬. I'm now immersing myself in the enormous body of knowledge as an offensive Sec and App developer. I have a voracious taste for all things tech and a strong desire to build thriving communities, so I thrive in the magical space where technology and interpersonal relationships meet.
+>>I'm Abe Toluwani,a passionate app genius from the magnificent country of Nigeria 🇳🇬. I'm now immersing myself in the enormous body of knowledge as an offensive Sec and App developer. I have a voracious taste for all things tech and a strong desire to build thriving communities, so I thrive in the magical space where technology and interpersonal relationships meet.
 
 
 
