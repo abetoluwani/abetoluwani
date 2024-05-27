@@ -85,7 +85,7 @@
 ### Stats ![robot](https://github.com/Salwa99/Salwa99/assets/110976050/8df2d10d-80e0-4ace-995e-5e326f4c7437) :
 
 <div id="stats">
-  <img src="https://streak-stats.demolab.com/?user=abetoluwani&theme=github_dark" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=abetoluwani" height="180" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&layout=compact&theme=github_dark" align="left" height="180" alt="Top Languages"/>
 </div>
 <br>
