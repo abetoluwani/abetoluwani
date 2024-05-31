@@ -16,8 +16,8 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=and+App+Development)](https://git.io/typing-svg)
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=How+to+reach+me+cybertolu%40protonmail.com)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700">   
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
 
 <br>
