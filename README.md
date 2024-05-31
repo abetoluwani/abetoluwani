@@ -15,8 +15,8 @@
 - ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=Ask+me+about+Offensive+Security)](https://git.io/typing-svg) 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=and+App+Development)](https://git.io/typing-svg)
 
-- ![smiling_face_with_sunglasses](https://github.com/Salwa99/Salwa99/assets/110976050/7603d0b4-79d1-4f0b-9d84-da0d94c8e37c)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=625&height=30&lines=How+to+reach+me+**cybertolu%40protonmail.com**)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=How+to+reach+me+cybertolu%40protonmail.com)](https://git.io/typing-svg)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700">   
 
 
