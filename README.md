@@ -4,6 +4,7 @@
 >>I'm Abe Toluwani,a passionate app genius from the magnificent country of Nigeria 🇳🇬. I'm now immersing myself in the enormous body of knowledge as an offensive Sec and App developer. I have a voracious taste for all things tech and a strong desire to build thriving communities, so I thrive in the magical space where technology and interpersonal relationships meet.
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="300" height="300">
@@ -15,6 +16,8 @@
 
 
 - ![smiling_face_with_sunglasses](https://github.com/Salwa99/Salwa99/assets/110976050/7603d0b4-79d1-4f0b-9d84-da0d94c8e37c)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=625&height=30&lines=How+to+reach+me+**cybertolu%40protonmail.com**)](https://git.io/typing-svg)
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="700">   
 
 
 <br>
@@ -30,6 +33,7 @@
 <a href="https://www.leetcode.com/abetoluwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abetoluwani" height="30" width="40" /></a>
 </p>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -80,6 +84,7 @@
     </a> -->
   
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
 
 ### Stats ![robot](https://github.com/Salwa99/Salwa99/assets/110976050/8df2d10d-80e0-4ace-995e-5e326f4c7437) :
@@ -89,8 +94,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&layout=compact&theme=github_dark" align="left" height="180" alt="Top Languages"/>
 </div>
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abetoluwani" alt="abetoluwani" /></a> </p>
 
 <br>
 <!-- <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=abetoluwani" alt="abetoluwani" height="350" /></p> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
