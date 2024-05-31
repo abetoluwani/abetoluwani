@@ -12,8 +12,8 @@
 - ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=I%E2%80%99m+currently+Building+A+SaaS+Company)](https://git.io/typing-svg)
 
 
-- ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=625&height=30&lines=Ask+me+about+Offensive+Security+and+App+Development)](https://git.io/typing-svg)
-
+- ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=600&height=30&lines=Ask+me+about+Offensive+Security)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=600&height=30&lines=and+App+Development)](https://git.io/typing-svg)
 
 - ![smiling_face_with_sunglasses](https://github.com/Salwa99/Salwa99/assets/110976050/7603d0b4-79d1-4f0b-9d84-da0d94c8e37c)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=625&height=30&lines=How+to+reach+me+**cybertolu%40protonmail.com**)](https://git.io/typing-svg)
   
