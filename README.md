@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+)](https://git.io/typing-svg) 
 
->>I'm Abe Toluwani,a passionate app genius from the magnificent country of Nigeria 🇳🇬. I'm now immersing myself in the enormous body of knowledge as an offensive Sec and App developer. I have a voracious taste for all things tech and a strong desire to build thriving communities, so I thrive in the magical space where technology and interpersonal relationships meet.
+>>I'm Abe Toluwani,a passionate app genius from the magnificent country of Nigeria 🇳🇬. I'm now immersing myself in the enormous body of knowledge as an App developer. I have a voracious taste for all things tech and a strong desire to build thriving communities, so I thrive in the magical space where technology and interpersonal relationships meet.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
@@ -12,8 +12,7 @@
 - ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=I%E2%80%99m+currently+Building+A+SaaS+Company)](https://git.io/typing-svg)
 
 
-- ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=Ask+me+about+Offensive+Security)](https://git.io/typing-svg) 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=and+App+Development)](https://git.io/typing-svg)
+- ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=Ask+me+about+App+Development)](https://git.io/typing-svg) 
 
 - [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=How+to+reach+me+cybertolu%40protonmail.com)](https://git.io/typing-svg)
 <br>
