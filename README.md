@@ -9,13 +9,22 @@
 
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="300" height="300">
 
-- ![rocket](https://github.com/Salwa99/Salwa99/assets/110976050/06216fcc-5d15-44e9-8af2-f579be71dc58)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=I%E2%80%99m+currently+Building+A+SaaS+Company)](https://git.io/typing-svg)
+- 👯 I’m looking to collaborate on App Development
 
-
-- ![thought_balloon](https://github.com/Salwa99/Salwa99/assets/110976050/21a0b373-e420-42c8-a9be-7ad2032422a5)  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=Ask+me+about+App+Development)](https://git.io/typing-svg) 
-
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&multiline=true&random=false&width=500&height=30&lines=How+to+reach+me+cybertolu%40protonmail.com)](https://git.io/typing-svg)
 <br>
+
+- 📝 I regularly write articles on medium.com/@abetoluwani
+
+<br>
+
+
+- 💬 Ask me about Security and App Development 
+
+<br>
+
+- 📫 How to reach me cybertolu@protonmail.com
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
 
