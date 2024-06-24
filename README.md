@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+)](https://git.io/typing-svg) 
 
->>I'm Abe Toluwani, a visionary app genius from Nigeria 🇳🇬 with extensive expertise in app development and digital marketing. With a robust foundation in Flutter and Dart, I excel in creating seamless mobile applications and driving technological innovation. My passion for technology is matched by a strong desire to build and nurture thriving communities, making me a dynamic force at the intersection of tech and interpersonal relationships.
+>>I'm Abe Toluwani, a visionary from Nigeria 🇳🇬 with extensive expertise in software development and digital marketing. With a foundation in Flutter , Dart and Python,  I excel in creating seamless software applications and driving technological innovation. My passion for technology is matched by a strong desire to build and nurture thriving communities, making me a dynamic force at the intersection of tech and interpersonal relationships.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
@@ -87,6 +87,16 @@
     <a href="https://flask.palletsprojects.com/en/3.0.x/.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/bwks/vendor-icons-svg/blob/master/flask.svg" alt="postman" width="40" height="40"/>
     </a>
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
+</a>
+
 <!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
     </a> -->
