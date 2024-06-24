@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+)](https://git.io/typing-svg) 
 
->>I'm Abe Toluwani,a passionate app genius from the magnificent country of Nigeria 🇳🇬. I'm now immersing myself in the enormous body of knowledge as an App developer. I have a voracious taste for all things tech and a strong desire to build thriving communities, so I thrive in the magical space where technology and interpersonal relationships meet.
+>>I'm Abe Toluwani, a visionary app genius from Nigeria 🇳🇬 with extensive expertise in app development and digital marketing. With a robust foundation in Flutter and Dart, I excel in creating seamless mobile applications and driving technological innovation. My passion for technology is matched by a strong desire to build and nurture thriving communities, making me a dynamic force at the intersection of tech and interpersonal relationships.
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
