@@ -13,7 +13,7 @@
 
 <br>
 
-- 📝 I regularly write articles on medium.com/@abetoluwani
+- 📝 I write articles on medium.com/@abetoluwani
 
 <br>
 
