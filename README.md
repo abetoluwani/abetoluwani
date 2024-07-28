@@ -1,7 +1,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+)](https://git.io/typing-svg) 
 
->> ***********
+>> *********** 
 Software Engineer  ( Flutter, Python (Flask, FastApi) , JavaScript (React , Typescript , Node , Express) , C++ )
 *********** 
 
