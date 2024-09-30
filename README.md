@@ -1,12 +1,11 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+)](https://git.io/typing-svg) 
-
+<br>
 >> *********** 
 Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (Typescript , Node , Express) ,C++, Java )
 *********** 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="300" height="300">
@@ -26,7 +25,7 @@ Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (Typescr
 
 - 📫 How to reach me cybertolu@protonmail.com
 
-
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
 
