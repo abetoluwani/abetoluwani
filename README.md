@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+)](https://git.io/typing-svg) 
 
 >> *********** 
-Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (React , Typescript , Node , Express) ,C++ )
+Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (Typescript , Node , Express) ,C++, Java )
 *********** 
 
 
@@ -34,11 +34,8 @@ Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (React ,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/abetoluwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abetoluwani" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/@themalwearpodcast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="themalwearpodcast" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/abetoluwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abetoluwani" height="30" width="40" /></a>
 </p>
 <br>
@@ -88,16 +85,18 @@ Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (React ,
     <a href="https://flask.palletsprojects.com/en/3.0.x/.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/bwks/vendor-icons-svg/blob/master/flask.svg" alt="postman" width="40" height="40"/>
     </a>
-    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
-</a>
 <a href="https://www.typescriptlang.org/docs/handbook/react.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
 </a>
-
+<a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+</a>
 <!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
     </a> -->
