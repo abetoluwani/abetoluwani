@@ -39,8 +39,9 @@ Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (Node , 
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
-
-<h3 align="left">Languages and Tools:</h3>
+ 
+<details> <summary><b>Languages, Frameworks and Tools:</b></summary>
+ <br>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -99,21 +100,16 @@ Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (Node , 
 <!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
     </a> -->
-  
+</p></details>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
-
 
 ### Stats ![robot](https://github.com/Salwa99/Salwa99/assets/110976050/8df2d10d-80e0-4ace-995e-5e326f4c7437) :
+[![Unseen's GitHub Stats](https://github-readme-stats-wheat-phi.vercel.app/api?username=abetoluwani&show_icons=true&theme=vue)](https://github.com/abetoluwani/github-readme-stats)
 
-<div id="stats">
-  <img src="https://streak-stats.demolab.com/?user=abetoluwani" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&layout=compact&theme=github_dark" align="left" height="180" alt="Top Languages"/>
-</div>
+ 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
-
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abetoluwani" alt="abetoluwani" /></a> </p>
 
