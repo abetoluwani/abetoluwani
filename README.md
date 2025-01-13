@@ -1,12 +1,10 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!;I'm+a+Security+and+App+Developer;Building+Global+Solutions)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!;I'm+Abe+Toluwani+%F0%9F%91%8B;I+am+a+Software+Engineer+Crafting+and+Building+Global+Solutions+at+MPC)](<https://git.io/typing-svg>)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abetoluwani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/abetoluwani?style=social">
   <img src="https://img.shields.io/github/stars/abetoluwani?style=social" alt="GitHub stars">
 </div>
-
-Crafting and Building Global Solutions at MPC
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -46,13 +44,6 @@ Crafting and Building Global Solutions at MPC
 
 ### 📈 Contribution Graph
 [![Abe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abetoluwani&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abetoluwani&theme=vue" alt="abetoluwani" /></p>
 
 </div>
 
@@ -118,5 +109,4 @@ Crafting and Building Global Solutions at MPC
 </p>
 </details>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/abetoluwani/abetoluwani/blob/output/github-contribution-grid-snake.svg)
+ 
