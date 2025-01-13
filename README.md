@@ -2,8 +2,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!+)](https://git.io/typing-svg) 
 <br>
  
-Software Engineer (Dart (Flutter), Python (Flask, FastApi) , JavaScript (Node , Express) ,C++, Java )
- 
+Crafting and Building Global Solutions at MPC
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >   
 
 <br>
