@@ -45,6 +45,9 @@
 ### 📈 Contribution Graph
 [![Abe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abetoluwani&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/abetoluwani/abetoluwani/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
