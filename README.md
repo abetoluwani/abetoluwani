@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!;I'm+Abe+Toluwani+%F0%9F%91%8B;I+am+a+Software+Engineer+Crafting+and+Building+Global+Solutions+at+MPC)](<https://git.io/typing-svg>)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+there!;I'm+Abe+Toluwani+%F0%9F%91%8B;I+am+a+Software+Engineer)](<https://git.io/typing-svg>)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abetoluwani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
