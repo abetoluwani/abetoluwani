@@ -11,10 +11,8 @@
 <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" align="right" width="300" height="300">
 
 ### 👨‍💻 About Me
-
-- 👯 I'm looking to collaborate on App Development
 - 📝 I write articles on [medium.com/@abetoluwani](https://medium.com/@abetoluwani)
-- 💬 Ask me about Security and App Development 
+- I play games 
 - 📫 Reach me at cybertolu@protonmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
