@@ -30,7 +30,10 @@
   
 ### 📊 GitHub Stats & Activity
 
-| <img height="180em" src="https://github-readme-stats-wheat-phi.vercel.app/api?username=abetoluwani&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/> | <img height="180em" src="https://github-readme-stats-wheat-phi.vercel.app/api/top-langs/?username=abetoluwani&layout=compact&langs_count=7&theme=vue"/> |
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img style="width: 42%;" src="https://github-readme-streak-stats.herokuapp.com/?user=abetoluwani&" alt="john-daniels" />
+
+
 | ------------- | ------------- |
 
 ### 🏆 GitHub Profile Trophy
