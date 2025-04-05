@@ -31,7 +31,7 @@
 ### 📊 GitHub Stats & Activity
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abetoluwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img style="width: 42%;" src="https://github-readme-streak-stats.herokuapp.com/?user=abetoluwani&" alt="john-daniels" />
+<img style="width: 50%;" src="https://github-readme-streak-stats.herokuapp.com/?user=abetoluwani&" alt="john-daniels" />
 
 
 | ------------- | ------------- |
