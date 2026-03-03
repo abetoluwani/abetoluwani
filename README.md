@@ -13,7 +13,6 @@ I'm a passionate software engineer with expertise in full-stack development, mob
 - 🔭 Currently working on innovative software projects
 - 📝 Writing technical articles on [Medium](https://medium.com/@abetoluwani)
 - 🎮 Gaming enthusiast in my free time
-- 💬 Ask me about **React, Flutter, Python, Docker, and Cloud Technologies**
 - 📫 Reach me at **cybertolu@protonmail.com**
 - ⚡ Fun fact: I host **The Malware Podcast** on YouTube
 
