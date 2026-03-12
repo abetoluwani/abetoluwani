@@ -44,13 +44,13 @@ I'm a passionate software engineer with expertise in full-stack development, mob
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![NestJs](https://img.shields.io/badge/Nest.js-E0234E.svg?logo=nestjs&logoColor=white)
+![NestJs](https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postgress](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Postgress](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### DevOps & Tools
