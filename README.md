@@ -24,32 +24,43 @@ I'm a passionate software engineer with expertise in full-stack development, mob
 
 ## 🚀 Projects
 
-<p align="left">Project showcase arranged in one horizontal row with equal-sized framed cards.</p>
+### Web
+<div style="width:100%;max-width:400px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;margin-bottom:20px;">
+  <a href="https://github.com/Mensa-Philosophical-Circle/Ideas" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
+    <video src="project/idea.mov" width="100%" height="200" controls muted playsinline style="width:100%;height:200px;object-fit:cover;border-radius:12px;display:block;"></video>
+  </a>
+  <strong>Ideas</strong>
+  <br />
+  <sub>Web platform project</sub>
+</div>
 
-<div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:flex-start;align-items:stretch;">
-  <div style="width:320px;height:380px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:space-between;align-items:center;overflow:hidden;">
-    <h3 style="margin:0;">Web</h3>
-    <a href="https://github.com/Mensa-Philosophical-Circle/Ideas" target="_blank" style="width:100%;display:block;">
-      <video src="project/idea.mov" width="100%" height="200" controls muted playsinline style="width:100%;height:200px;object-fit:cover;border-radius:12px;display:block;"></video>
-    </a>
-    <div>
-      <strong>Ideas</strong>
-      <br />
-      <sub>Web project</sub>
-    </div>
-  </div>
+### Desktop
+<div style="width:100%;max-width:400px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;margin-bottom:20px;">
+  <a href="https://github.com/Mensa-Philosophical-Circle/XSpaceByte" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
+    <img src="project/spacebyte.png" alt="XSpaceByte" style="width:100%;height:200px;object-fit:cover;border-radius:12px;display:block;" />
+  </a>
+  <strong>XSpaceByte</strong>
+  <br />
+  <sub>Desktop platform project</sub>
+</div>
 
-  <div style="width:320px;height:380px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:space-between;align-items:center;overflow:hidden;">
-    <h3 style="margin:0;">Desktop</h3>
-    <a href="https://github.com/Mensa-Philosophical-Circle/XSpaceByte" target="_blank" style="width:100%;display:block;">
-      <img src="project/spacebyte.png" alt="XSpaceByte" style="width:100%;height:200px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <div>
-      <strong>XSpaceByte</strong>
-      <br />
-      <sub>Desktop project</sub>
-    </div>
-  </div>
+### AI Tools
+<div style="width:100%;max-width:400px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;margin-bottom:20px;">
+  <a href="https://github.com/abetoluwani/hotelrunner" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
+    <div style="width:100%;height:200px;background-color:#f3f4f6;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:14px;color:#666;">Hotel Booking AI Tool</div>
+  </a>
+  <strong>HotelRunner</strong>
+  <br />
+  <sub>AI tool for hotels in UK, Cyprus, Turkey deployed on CMD</sub>
+</div>
+
+<div style="width:100%;max-width:400px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;margin-bottom:20px;">
+  <a href="https://github.com/abetoluwani/Dovec-Extensions" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
+    <div style="width:100%;height:200px;background-color:#f3f4f6;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:14px;color:#666;">Real Estate AI Integration</div>
+  </a>
+  <strong>Dovec-Extensions</strong>
+  <br />
+  <sub>AI tool for real estate company integrated with CMD AI</sub>
 </div>
 
 ## 🛠️ Tech Stack
