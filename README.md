@@ -18,9 +18,25 @@ I'm a passionate software engineer with expertise in full-stack development, mob
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/abetoluwani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://medium.com/@abetoluwani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>&nbsp;&nbsp;<a href="https://www.leetcode.com/abetoluwani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+<table border="0">
+  <tr>
+    <td style="border: none;">
+      <a href="https://linkedin.com/in/abetoluwani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://medium.com/@abetoluwani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://www.leetcode.com/abetoluwani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Projects
 
