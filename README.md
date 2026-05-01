@@ -19,11 +19,38 @@ I'm a passionate software engineer with expertise in full-stack development, mob
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/abetoluwani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@themalwerepodcast" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://medium.com/@abetoluwani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abetoluwani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abetoluwani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://medium.com/@abetoluwani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://www.leetcode.com/abetoluwani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
+
+## 🚀 Projects
+
+<p align="left">Project showcase arranged in one horizontal row with equal-sized framed cards.</p>
+
+<div style="display:flex;flex-wrap:wrap;gap:20px;justify-content:flex-start;align-items:stretch;">
+  <div style="width:320px;height:380px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:space-between;align-items:center;overflow:hidden;">
+    <h3 style="margin:0;">Web</h3>
+    <a href="https://github.com/Mensa-Philosophical-Circle/Ideas" target="_blank" style="width:100%;display:block;">
+      <video src="project/idea.mov" width="100%" height="200" controls muted playsinline style="width:100%;height:200px;object-fit:cover;border-radius:12px;display:block;"></video>
+    </a>
+    <div>
+      <strong>Ideas</strong>
+      <br />
+      <sub>Web project</sub>
+    </div>
+  </div>
+
+  <div style="width:320px;height:380px;border:1px solid #d0d7de;border-radius:16px;padding:16px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:space-between;align-items:center;overflow:hidden;">
+    <h3 style="margin:0;">Desktop</h3>
+    <a href="https://github.com/Mensa-Philosophical-Circle/XSpaceByte" target="_blank" style="width:100%;display:block;">
+      <img src="project/spacebyte.png" alt="XSpaceByte" style="width:100%;height:200px;object-fit:cover;border-radius:12px;display:block;" />
+    </a>
+    <div>
+      <strong>XSpaceByte</strong>
+      <br />
+      <sub>Desktop project</sub>
+    </div>
+  </div>
+</div>
 
 ## 🛠️ Tech Stack
 
