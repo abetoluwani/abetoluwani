@@ -24,102 +24,123 @@ I'm a passionate software engineer with expertise in full-stack development, mob
 
 ## 🚀 Projects
 
-### Web
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://idea-theta-two.vercel.app/" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="project/idea.png" alt="Ideas Website" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>Ideas</strong>
-    <br />
-    <sub>Web platform project</sub>
-  </div>
+### 🌐 Web Projects
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://idea-theta-two.vercel.app/" target="_blank">
+        <img src="project/idea.png" alt="Ideas Website" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>Ideas</strong>
+      <br />
+      <sub style="color: #666;">Web platform project</sub>
+    </td>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://cookies-clean.vercel.app/" target="_blank">
+        <img src="project/cookies.png" alt="Cookies & Clean Website" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>Cookies & Clean</strong>
+      <br />
+      <sub style="color: #666;">Luxury Home Detailing</sub>
+    </td>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://vantage-obys.vercel.app/" target="_blank">
+        <img src="project/vantage.png" alt="Vantage Portfolio" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>Vantage</strong>
+      <br />
+      <sub style="color: #666;">Portfolio Website</sub>
+    </td>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://craftandco.vercel.app/" target="_blank">
+        <img src="project/craft.png" alt="Craft and Co Website" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>Craft and Co</strong>
+      <br />
+      <sub style="color: #666;">Studio Website</sub>
+    </td>
+  </tr>
+</table>
 
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://cookies-clean.vercel.app/" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="project/cookies.png" alt="Cookies & Clean Website" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>Cookies & Clean</strong>
-    <br />
-    <sub>Luxury Estate & Residential Home Detailing Services</sub>
-  </div>
+### 💻 Desktop
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://github.com/Mensa-Philosophical-Circle/XSpaceByte" target="_blank">
+        <img src="project/spacebyte.png" alt="XSpaceByte" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>XSpaceByte</strong>
+      <br />
+      <sub style="color: #666;">Desktop platform project</sub>
+    </td>
+    <td width="25%" style="border: none;"></td>
+    <td width="25%" style="border: none;"></td>
+    <td width="25%" style="border: none;"></td>
+  </tr>
+</table>
 
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://vantage-obys.vercel.app/" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="project/vantage.png" alt="Vantage Portfolio" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>Vantage</strong>
-    <br />
-    <sub>Portfolio Website</sub>
-  </div>
+### 🤖 AI Tools
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://github.com/abetoluwani/hotelrunner" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/abetoluwani/hotelrunner" alt="HotelRunner Preview" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>HotelRunner</strong>
+      <br />
+      <sub style="color: #666;">AI tool for UK hotels</sub>
+    </td>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://github.com/abetoluwani/Dovec-Extensions" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/abetoluwani/Dovec-Extensions" alt="Dovec-Extensions Preview" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>Dovec-Extensions</strong>
+      <br />
+      <sub style="color: #666;">AI for Real Estate</sub>
+    </td>
+    <td width="25%" style="border: none;"></td>
+    <td width="25%" style="border: none;"></td>
+  </tr>
+</table>
 
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://craftandco.vercel.app/" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="project/craft.png" alt="Craft and Co Website" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>Craft and Co</strong>
-    <br />
-    <sub>Studio Website</sub>
-  </div>
-</div>
-
-### Desktop
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://github.com/Mensa-Philosophical-Circle/XSpaceByte" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="project/spacebyte.png" alt="XSpaceByte" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>XSpaceByte</strong>
-    <br />
-    <sub>Desktop platform project</sub>
-  </div>
-</div>
-
-### AI Tools
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://github.com/abetoluwani/hotelrunner" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="https://opengraph.githubassets.com/1/abetoluwani/hotelrunner" alt="HotelRunner Preview" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>HotelRunner</strong>
-    <br />
-    <sub>AI tool for hotels in UK, Cyprus, Turkey deployed on CMD</sub>
-  </div>
-
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://github.com/abetoluwani/Dovec-Extensions" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="https://opengraph.githubassets.com/1/abetoluwani/Dovec-Extensions" alt="Dovec-Extensions Preview" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>Dovec-Extensions</strong>
-    <br />
-    <sub>AI tool for real estate company integrated with CMD AI</sub>
-  </div>
-</div>
-
-### Mobile
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <a href="https://github.com/abetoluwani/Starter-Template" target="_blank" style="width:100%;display:block;margin-bottom:12px;">
-      <img src="https://opengraph.githubassets.com/1/abetoluwani/Starter-Template" alt="Starter-Template Preview" style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;" />
-    </a>
-    <strong>Starter-Template</strong>
-    <br />
-    <sub>Flutter Starter Template for Mobile</sub>
-  </div>
-
-  <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
-    <div style="width:100%;display:block;margin-bottom:12px;">
-      <div style="width:100%;height:120px;background-color:#1e1e1e;border-radius:12px;display:flex;align-items:center;justify-content:center;color:#fff;font-size:14px;font-weight:bold;">3D Render</div>
-    </div>
-    <strong>3D with Flutter</strong>
-    <br />
-    <sub>3D rendering application</sub>
-    <details style="margin-top:8px;">
-      <summary style="cursor:pointer;font-size:12px;color:#0969da;">Watch Demo</summary>
-      <video src="project/3dRenderwithFlutter.mp4" width="100%" controls muted playsinline style="margin-top:8px;border-radius:8px;"></video>
-    </details>
-  </div>
-</div>
+### 📱 Mobile
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <a href="https://github.com/abetoluwani/Starter-Template" target="_blank">
+        <img src="https://opengraph.githubassets.com/1/abetoluwani/Starter-Template" alt="Starter-Template Preview" width="100%" style="border-radius:12px; margin-bottom:10px;" />
+      </a>
+      <br />
+      <strong>Starter Template</strong>
+      <br />
+      <sub style="color: #666;">Flutter Mobile Template</sub>
+    </td>
+    <td width="25%" align="center" style="vertical-align: top; border: none;">
+      <div style="width:100%; margin-bottom:10px;">
+        <div style="width:100%; padding-top: 56.25%; background-color:#1e1e1e; border-radius:12px; position: relative;">
+          <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content:center; color:#fff; font-size: 12px; font-weight: bold;">3D RENDER</div>
+        </div>
+      </div>
+      <br />
+      <strong>3D with Flutter</strong>
+      <br />
+      <sub style="color: #666;">Rendering Application</sub>
+      <details style="margin-top:8px;">
+        <summary style="cursor:pointer;font-size:12px;color:#0969da;">Watch Demo</summary>
+        <video src="project/3dRenderwithFlutter.mp4" width="100%" controls muted playsinline style="margin-top:8px;border-radius:8px;"></video>
+      </details>
+    </td>
+    <td width="25%" style="border: none;"></td>
+    <td width="25%" style="border: none;"></td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
