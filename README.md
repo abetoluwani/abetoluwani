@@ -123,13 +123,7 @@ I'm a passionate software engineer with expertise in full-stack development, mob
       <sub style="color: #666;">Flutter Mobile Template</sub>
     </td>
     <td width="25%" align="center" style="vertical-align: top; border: none;">
-      <a href="https://github.com/user-attachments/assets/f1e6a5e0-593d-4172-baed-3834e45f4475" target="_blank">
-        <div style="width:100%; margin-bottom:10px;">
-          <div style="width:100%; padding-top: 56.25%; background-color:#1e1e1e; border-radius:12px; position: relative;">
-            <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content:center; color:#fff; font-size: 11px; font-weight: bold; letter-spacing: 1px;">▶ WATCH DEMO</div>
-          </div>
-        </div>
-      </a>
+      <video src="https://github.com/user-attachments/assets/f1e6a5e0-593d-4172-baed-3834e45f4475" width="100%" controls muted playsinline style="border-radius:12px; margin-bottom:10px;"></video>
       <br />
       <strong>3D with Flutter</strong>
       <br />
