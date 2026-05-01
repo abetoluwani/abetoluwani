@@ -123,19 +123,17 @@ I'm a passionate software engineer with expertise in full-stack development, mob
       <sub style="color: #666;">Flutter Mobile Template</sub>
     </td>
     <td width="25%" align="center" style="vertical-align: top; border: none;">
-      <div style="width:100%; margin-bottom:10px;">
-        <div style="width:100%; padding-top: 56.25%; background-color:#1e1e1e; border-radius:12px; position: relative;">
-          <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content:center; color:#fff; font-size: 12px; font-weight: bold;">3D RENDER</div>
+      <a href="project/3dRenderwithFlutter.mp4" target="_blank">
+        <div style="width:100%; margin-bottom:10px;">
+          <div style="width:100%; padding-top: 56.25%; background-color:#1e1e1e; border-radius:12px; position: relative;">
+            <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; align-items: center; justify-content:center; color:#fff; font-size: 11px; font-weight: bold; letter-spacing: 1px;">▶ WATCH DEMO</div>
+          </div>
         </div>
-      </div>
+      </a>
       <br />
       <strong>3D with Flutter</strong>
       <br />
       <sub style="color: #666;">Rendering Application</sub>
-      <details style="margin-top:8px;">
-        <summary style="cursor:pointer;font-size:12px;color:#0969da;">Watch Demo</summary>
-        <video src="project/3dRenderwithFlutter.mp4" width="100%" controls muted playsinline style="margin-top:8px;border-radius:8px;"></video>
-      </details>
     </td>
     <td width="25%" style="border: none;"></td>
     <td width="25%" style="border: none;"></td>
