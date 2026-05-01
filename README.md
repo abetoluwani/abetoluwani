@@ -109,7 +109,7 @@ I'm a passionate software engineer with expertise in full-stack development, mob
 
   <div style="width:23%;min-width:180px;box-sizing:border-box;margin-bottom:20px;">
     <div style="width:100%;display:block;margin-bottom:12px;">
-      <video src="project/3dRenderwithFlutter.mp4" width="100%" height="120" controls muted playsinline style="width:100%;height:120px;object-fit:cover;border-radius:12px;display:block;"></video>
+      <div style="width:100%;height:120px;background-color:#1e1e1e;border-radius:12px;display:flex;align-items:center;justify-content:center;color:#fff;font-size:14px;font-weight:bold;">3D Render</div>
     </div>
     <strong>3D with Flutter</strong>
     <br />
