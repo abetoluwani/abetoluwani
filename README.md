@@ -114,6 +114,10 @@ I'm a passionate software engineer with expertise in full-stack development, mob
     <strong>3D with Flutter</strong>
     <br />
     <sub>3D rendering application</sub>
+    <details style="margin-top:8px;">
+      <summary style="cursor:pointer;font-size:12px;color:#0969da;">Watch Demo</summary>
+      <video src="project/3dRenderwithFlutter.mp4" width="100%" controls muted playsinline style="margin-top:8px;border-radius:8px;"></video>
+    </details>
   </div>
 </div>
 
