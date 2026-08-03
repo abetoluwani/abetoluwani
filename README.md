@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abe Toluwani</h1>
-<h3 align="center">Software Engineer | Technical Writer | Hackathon Dev</h3>
+<h3 align="center">Mobile Engineer | Technical Writer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abetoluwani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
