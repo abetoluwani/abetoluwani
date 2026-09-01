@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://abetoluwani.com"><img src="https://img.shields.io/badge/Portfolio-abetoluwani.com-10B981?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abetoluwani.tech"><img src="https://img.shields.io/badge/Portfolio-abetoluwani.tech-10B981?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
   <a href="https://x.com/stealthexploit"><img src="https://img.shields.io/badge/X_Follow-000000?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)" /></a>
   <a href="https://linkedin.com/in/abetoluwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
 </p>
