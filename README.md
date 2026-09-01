@@ -3,7 +3,7 @@
 <h4 align="center">Product > Engineering > Revenue.</h4>
 
 <p align="center">
-  <a href="https://abetoluwani.com">
+  <a href="https://abetoluwani.tech">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1500&color=10B981&center=true&vCenter=true&width=600&lines=Zero-to-One+Builder;Cross-Platform+Systems+Architect;Crafting+Fluid+UI%2FUX;Bridging+Design+%26+60fps+Reality" alt="Typing SVG" />
   </a>
 </p>
